@@ -1,7 +1,7 @@
 # CVPR_AUV
 # Delving Aleatoric Uncertainty in Medical Image Segmentation via Vision Foundation Models (CVPR 2026)
 
-[cite_start]Official PyTorch implementation of the paper: **"Delving Aleatoric Uncertainty in Medical Image Segmentation via Vision Foundation Models"**.
+Official PyTorch implementation of the paper: **"Delving Aleatoric Uncertainty in Medical Image Segmentation via Vision Foundation Models"**.
 
 ---
 
